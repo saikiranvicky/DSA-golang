@@ -1,1 +1,1 @@
-# DataStructures-golang
+# DataStructures and Algorithms in golang
